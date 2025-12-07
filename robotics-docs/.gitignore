@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env*
+
+# Docusaurus
+.docusaurus/
+.cache-loader/
+.swc/
+build/
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
